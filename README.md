@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an 18-year-old developer from Croatia with a passion for coding across a variety of platforms and languages. Currently, I’m focused on **Roblox game development**, but my experience spans a wide range of projects. 
+Developer with a passion for coding across a variety of platforms and languages. I’m currently focused on **Roblox game development**, but my experience spans a wide range of projects. 
 
 I've worked in **Python** for software development, **Java** in Minecraft modding, **web development** with **Flask**, and of course, **Lua** for scripting in Roblox.
 
