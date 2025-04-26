@@ -10,7 +10,7 @@ I'm an 18-year-old developer from Croatia with a passion for coding across a var
 
 ## 💻 Skills
 
-- **Languages**: Python, Lua, C++, C#, HTML/CSS
+- **Languages**: Python, Lua, Java, C++, C#, HTML/CSS
 - **Tools & Frameworks**: Flask, Kivy, Godot, Roblox Studio
 
 ## 🌍 Let's Connect
