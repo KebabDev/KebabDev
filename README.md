@@ -8,7 +8,7 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 
 ## 🚀 Current Project
 
-- **TrafficTycoon**: A Roblox game I’m currently working on.
+- **Traffic Tycoon**: A Roblox game I’m currently working on.
 
 ## 💻 Skills
 
