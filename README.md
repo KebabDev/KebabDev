@@ -25,7 +25,7 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 
 *Other experience*: Flask, Kivy, Godot, Roblox Studio
 
-## 🌍 Find Me
+## 🌍 Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tastykebab123)
 
