@@ -9,7 +9,7 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 
 ## 🚀 Current Project
 
-- **Traffic Tycoon** — a Roblox game currently in development.
+- **Traffic Tycoon** — a Roblox game I'm currently working on.
 
 ## 💻 Skills
 
@@ -18,9 +18,9 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-*Other experience*: C++, C#, HTML/CSS, Kivy, Godot, Roblox Studio
+*Other experience*: C++, Flask, HTML/CSS, Kivy, Godot, Roblox Studio
 
 ## 🌍 Find Me
 
@@ -28,4 +28,4 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TastyKebab123&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KebabDev&layout=compact)
