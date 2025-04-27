@@ -23,7 +23,7 @@ I've worked in **Python** for software development, **Java** in Minecraft moddin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-*Other experience*: C++, Flask, HTML/CSS, Kivy, Godot, Roblox Studio
+*Other experience*: Flask, Kivy, Godot, Roblox Studio
 
 ## 🌍 Find Me
 
