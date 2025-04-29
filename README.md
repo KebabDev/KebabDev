@@ -1,4 +1,5 @@
-# Hi, I'm Kebab (aka KebabDev or TastyKebab) 👋
+<h1 align="center">Hi 👋, I'm TastyKebab</h1>
+<h3 align="center">An 18 year old self-taught developer from Croatia.</h3>
 
 ## About Me
 
