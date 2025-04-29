@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TastyKebab</h1>
 <h3 align="center">An 18 year old self-taught developer from Croatia.</h3>
 
-## About Me
+## ⚡ About Me
 
 Developer with a passion for coding across a variety of platforms and languages.  
 Currently, I’m focused on **Roblox game development**, but my experience spans a wide range of projects.
