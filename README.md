@@ -3,14 +3,13 @@
 
 ## ⚡ About Me
 
-Developer with a passion for coding across a variety of platforms and languages.  
-Currently, I’m focused on **Roblox game development**, but my experience spans a wide range of projects.
+Developer with a passion for coding across a variety of platforms and languages.
 
-I've worked in **Python** for software development, **Java** in Minecraft modding, **web development** with **Flask**, and of course, **Lua** for scripting in Roblox.
+Currently focused on **Roblox game development**.
 
 ## 🚀 Current Project
 
-- **Traffic Tycoon** — a Roblox game I'm currently working on.
+- **Traffic Tycoon** - a Roblox game I'm currently working on.
 
 ## 💻 Skills
 
