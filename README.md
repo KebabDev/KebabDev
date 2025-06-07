@@ -5,11 +5,9 @@
 
 Developer with a passion for coding across a variety of platforms and languages.
 
-Currently focused on **Roblox game development**.
-
 ## 🚀 Current Project
 
-- **Traffic Tycoon** - a Roblox game I'm currently working on.
+Currently focused on **Roblox game development**.
 
 ## 💻 Skills
 
