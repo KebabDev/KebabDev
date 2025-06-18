@@ -12,6 +12,7 @@ Currently focused on **Roblox game development**.
 # Languages & Tools:
 
 *Main languages:* lua, python
+
 *Other (less experienced)*: Flask, Kivy, Godot, Roblox Studio, C++, C#, Java, HTML, CSS
 
 # 🌍 Socials
